@@ -26,3 +26,12 @@ We cover a wide range of Python & data science topics in this video. They includ
 - Working with dates (datetime library)
 - Saving & loading data with Pickle library
 - Accessing data from an API using Requests library
+
+To see the steps to create the dataset, check out [dataset-creation.ipynb](https://github.com/KeithGalli/disney-data-science-tasks/blob/master/Dataset-Creation.ipynb) <br/>
+In a future video we will analyze the dataset in [dataset-analysis.ipynb](https://github.com/KeithGalli/disney-data-science-tasks/blob/master/Dataset-Analysis.ipynb)
+
+## Save/Load the Datasets
+
+- If you want to jump into a specific task, feel free to utilize the [dataset checkpoints](https://github.com/KeithGalli/disney-data-science-tasks/tree/master/dataset_checkpoints). <br/>
+- To load these files you can look at the functions found in [this file](https://github.com/KeithGalli/disney-data-science-tasks/blob/master/helper/save_and_load_dataset_checkpoints.py). <br/>
+- If you want to just do analysis on the final dataset, check out [this folder](https://github.com/KeithGalli/disney-data-science-tasks/tree/master/dataset).
